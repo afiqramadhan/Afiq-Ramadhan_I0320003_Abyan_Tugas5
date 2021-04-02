@@ -1,5 +1,5 @@
 # memasukkan data program
-nama = input('Masukkan naman Anda: ')
+nama = input('Masukkan nama Anda: ')
 nilai = float(input('Masukkan nilai Anda: '))
 if 85<= nilai <=100:
     print('Halo,', nama, '!', 'Nilai Anda setelah dikonversi adalah A')
